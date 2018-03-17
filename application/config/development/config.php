@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 if($_SERVER['HTTP_HOST'] != "localhost"){
-    $config['base_url'] = 'https://link/';
+    $config['base_url'] = 'https://twitterbot.herokuapp.com/';
 }else{
     $config['base_url'] = 'http://localhost/backendtest/';
 }

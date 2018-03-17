@@ -24,4 +24,4 @@ The bot is suppose to maintain a session and continously listen to the predefine
 
 
 ## Demo
-![screen shot](https://user-images.githubusercontent.com/8668661/33088863-330b4250-ceef-11e7-9e9c-b4fd9ca299d8.gif)
+![screen shot 2018-03-17 at 14 49 37](https://user-images.githubusercontent.com/586490/37556463-c54c3536-29f6-11e8-80c6-8862b9ab5f33.png)
